@@ -52,8 +52,8 @@ Pour compiler et exécuter cette calculatrice sur votre machine :
 
 1.  **Cloner le dépôt** :
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-projet.git
-    cd votre-projet
+    git clone https://github.com/technerdsam/CalculatriceApp.git
+    cd CalculatriceApp
     ```
 2.  **Compiler le code** :
     ```bash
@@ -152,8 +152,8 @@ To compile and run this calculator on your machine:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/your-project.git
-    cd your-project
+    git clone https://github.com/technerdsam/CalculatriceApp.git
+    cd CalculatriceApp
     ```
 2.  **Compile the code**:
     ```bash
